@@ -1,3 +1,3 @@
 # my_web_page
 
-/sample.html
+<a href="/sample.html">My first HTML</a>
